@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud-volumes-ontap | NetApp Cloud Docs</title>
+    <atom:link href="https://docs.netapp.com/us-en/cloud-volumes-ontap/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://docs.netapp.com/us-en/cloud-volumes-ontap</link>
+    <description>The latest updates from NetApp Cloud Docs</description>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <pubDate>Thu, 18 Mar 2021 18:51:15 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Mar 2021 18:51:15 +0000</lastBuildDate>
+    
+    
+    
+    <item>
+      <title>What&amp;#8217;s new in Cloud Volumes ONTAP 9.5 (28 Oct 2020)</title>
+      <pubDate>Wed, 28 Oct 2020 14:04:05 +0000</pubDate>
+      <link>https://docs.netapp.com/us-en/cloud-volumes-ontap/reference_new_95.html?time=1603893845</link>
+      <guid isPermaLink="false">Wed, 28 Oct 2020 14:04:05 +0000</guid>
+      <description><![CDATA[ Cloud Volumes ONTAP 9.5 includes several new features and enhancements. ]]></description>
+    </item>
+    
+    
+  </channel>
+</rss>
